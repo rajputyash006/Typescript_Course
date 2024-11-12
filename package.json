@@ -1,0 +1,15 @@
+{
+  "name": "typescript_course",
+  "version": "1.0.0",
+  "description": "<h6> TypeScript is a superset of JavaScript that adds static typing to the language.<h6>\r <h6>It allows developers to define variable types and function signatures explicitly, enabling better tooling, early detection of errors, and improved maintainability of code.<h6>\r <h6>Typescript = Javascript + type<h6>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
