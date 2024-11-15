@@ -7,3 +7,4 @@
 <h5>Day-1 Basics of type, function and interface<h5>
 <h5>Day-2 Types in Typescript<h5>
 <h5>Day-3 Annotations and Inference in Typescript<h5>
+<h5>Day-4 Annotations with function and object destructuring<h5>
