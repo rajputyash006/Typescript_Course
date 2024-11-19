@@ -9,4 +9,4 @@
 <h5>Day-3 Annotations and Inference in Typescript<h5>
 <h5>Day-4 Annotations with function and object destructuring<h5>
 <h5>Day-5 Arrays and Tuples in Typescript<h5>
-<h6>Day-6 Interface in Typescript<h6>
+<h5>Day-6 Interface in Typescript<h5>
