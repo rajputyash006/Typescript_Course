@@ -10,3 +10,4 @@
 <h5>Day-4 Annotations with function and object destructuring<h5>
 <h5>Day-5 Arrays and Tuples in Typescript<h5>
 <h5>Day-6 Interface in Typescript<h5>
+<h5>Day-7 Class in Typescript<h5>
