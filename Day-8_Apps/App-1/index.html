@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direction Finder</title>
+    <style>
+        #locationInput {
+            border: 2px solid black;
+            padding: 20px;
+            width: 350px;
+            margin: 0 auto;
+        }
+        #iframe{
+            margin: 20 auto;
+        }
+    </style>
+</head>
+<body>
+    <form type="submit" id="locationInput">
+        <label  for="sourceLocation">Source Location:</label>
+        <input type="text" id="sourceLocation" name="sourceLocation" required>
+        <br><br>
+        <label for="destinationLocation">Destination Location:</label>
+        <input type="text" id="destinationLocation" name="destinationLocation" required>
+        <br><br>
+        <button type="submit">Submit</button>
+    </form>
+    <iframe id="iframe" style="display:none;" frameborder="0"></iframe>
+    <script type="module" src="./src/index.ts"></script>
+</body>
+</html>
