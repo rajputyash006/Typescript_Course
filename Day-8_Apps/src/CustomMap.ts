@@ -1,6 +1,6 @@
 export class CustomMap {
   url =
-    'https://www.google.com/maps/embed/v1/directions?key=AIzaSyAzy1jKa7FVddQ2nFdD0YocyntZOBwuyjE&avoid=tolls|highways&';
+    'https://www.google.com/maps/embed/v1/directions?key=[Your_google_map_key]&avoid=tolls|highways&';
   constructor(
     public source_location: string,
     public destination_location: string
